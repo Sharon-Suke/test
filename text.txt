@@ -1,0 +1,4 @@
+cd -> Navigate
+	1. get into a folder -> cd 'folder path'
+	2. get out of  a folder -> cd ..
+	3. go back home -> cd
